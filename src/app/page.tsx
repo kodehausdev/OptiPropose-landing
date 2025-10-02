@@ -183,7 +183,7 @@ export default function Home() {
           
           <p className="text-xl md:text-2xl text-white/70 max-w-3xl mx-auto mb-12 leading-relaxed">
             OptiPropose is your AI co-pilot that analyzes client needs and crafts persuasive, 
-            data-backed proposals — so you close more deals in less time.
+            data-backed proposals - so you close more deals in less time.
           </p>
           
           <div className="mb-3">

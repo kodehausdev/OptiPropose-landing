@@ -1,9 +1,10 @@
 import type {Metadata} from 'next';
 import './globals.css';
 import { Toaster } from '@/components/ui/toaster';
+import React from 'react';
 
 export const metadata: Metadata = {
-  title: 'PitchPerfect AI',
+  title: 'OptiPropose - AI-Powered Proposal Generator',
   description: 'Create winning proposals in minutes, not hours. Leverage AI to analyze client needs and craft persuasive pitches that close more deals.',
 };
 
